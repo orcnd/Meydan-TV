@@ -1,0 +1,22 @@
+Original photograph: Mevlana Muzesi.jpg
+Photographer: Penaber49
+Date: 2022-11-10
+Source: https://commons.wikimedia.org/wiki/File:Mevlana_M%C3%BCzesi.jpg
+License: Creative Commons Attribution-ShareAlike 4.0 International
+https://creativecommons.org/licenses/by-sa/4.0/
+
+The central/right mosque is Selimiye Mosque; the Mevlana Museum is to the left.
+The original photographer does not endorse this application or its AI edits.
+
+All mevlana_*.png files in this assets directory are adapted from that photo
+and distributed under CC BY-SA 4.0. AI-assisted changes include:
+- mevlana_snow.png: winter dusk, changed sky/lighting, snow, pedestrians removed.
+- mevlana_night/dawn/morning/noon/afternoon.png: snow scene lighting variants.
+- mevlana_dry_night/dawn/morning/noon/afternoon/evening.png: snow/wetness removed,
+  sky and lighting changed.
+- mevlana_rain.png: rainy dusk, wet paving, changed sky/lighting, people removed.
+- mevlana_backdrop_trees.png: transparent grove replacing the far-right building.
+
+This photo license does not apply to the Java source or Gradle wrapper.
+meydan_logo.png and meydan_banner.png in res/drawable-nodpi are separately
+AI-generated brand artwork, not adaptations of the source photograph.
